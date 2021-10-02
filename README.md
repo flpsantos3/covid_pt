@@ -1,2 +1,2 @@
-# covid_pt
+# Covid-PT
 Quick exploratory analysis of Portuguese Covid-related data.
